@@ -4,6 +4,8 @@
 Test binder with simple Volve project.
 
 
+Jupyter+R: [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/f0nzie/binder-volve/main?filepath=test-library.ipynb)
+
 
 
 
